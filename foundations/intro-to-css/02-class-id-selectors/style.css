@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odin {
+    background-color: #ffb6c1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#numtwo {
+   color: hsl(240, 100%, 50%); 
+   font-size: 36px;
+}
+
+.odin.cool {
+    font-size: 24px;
+}
+
+#numfour {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
